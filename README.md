@@ -1,9 +1,9 @@
-# WHOIS API PHP
-A lightweight wrapper written in PHP for the domain and IP Whois API provided by whoisapi.eu
+# JSON WHOIS API PHP
+A lightweight wrapper written in PHP for the domain and IP Whois API provided by JsonWhois (jsonwhois.io).
 
 
 ## Requirements
- + API KEY (obtain your free key from https://whoisapi.eu/register)
+ + API KEY (obtain your free key from https://jsonwhois.io/register)
  + PHP 5.3+
  + CURL
 
