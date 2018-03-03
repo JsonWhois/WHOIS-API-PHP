@@ -1,8 +1,8 @@
 <?php
 
-namespace WhoisAPI\Adapter\Domain;
+namespace JsonWhois\Adapter\Domain;
 
-use WhoisAPI\Adapter\Base;
+use JsonWhois\Adapter\Base;
 
 class Whois extends Base {
 	const END_POINT = '/whois/domain';

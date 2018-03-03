@@ -1,6 +1,6 @@
 <?php
 
-namespace WhoisAPI\Adapter;
+namespace JsonWhois\Adapter;
 
 /**
  * Response capsule

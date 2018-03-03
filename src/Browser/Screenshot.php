@@ -1,8 +1,8 @@
 <?php
 
-namespace WhoisAPI\Adapter\Browser;
+namespace JsonWhois\Adapter\Browser;
 
-use WhoisAPI\Adapter\Base;
+use JsonWhois\Adapter\Base;
 
 class Screenshot extends Base {
 	const END_POINT = '/screenshot';

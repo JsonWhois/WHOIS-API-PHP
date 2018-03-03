@@ -1,8 +1,8 @@
 <?php
 
-namespace WhoisAPI\Adapter\IP;
+namespace JsonWhois\Adapter\IP;
 
-use WhoisAPI\Adapter\Base;
+use JsonWhois\Adapter\Base;
 
 class Geo extends Base {
 	const END_POINT = '/geo';

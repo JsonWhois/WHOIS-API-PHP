@@ -1,6 +1,6 @@
 <?php
 
-namespace WhoisAPI\Adapter;
+namespace JsonWhois\Adapter;
 
 /**
 * A simple HTTP adapter

@@ -1,9 +1,9 @@
 <?php
 
-namespace WhoisAPI\Adapter;
+namespace JsonWhois\Adapter;
 
-use WhoisAPI\Adapter\HttpAdapter;
-use WhoisAPI\Adapter\Result;
+use JsonWhois\Adapter\HttpAdapter;
+use JsonWhois\Adapter\Result;
 
 /**
  * The base API request class
