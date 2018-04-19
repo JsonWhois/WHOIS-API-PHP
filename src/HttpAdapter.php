@@ -30,7 +30,7 @@ class HttpAdapter {
 		    CURLOPT_HTTPGET => true
 		));
 
-		if (!defined('JSONWHOISIO_IGNORE_CA') || WHOISAPIEU_IGNORE_CA == true) {
+		if (!defined('JSONWHOISIO_IGNORE_CA') || JSONWHOISIO_IGNORE_CA == true) {
 			\curl_setopt_array($curl, array(
 			    CURLOPT_SSL_VERIFYHOST => false,
 			    CURLOPT_SSL_VERIFYPEER => false
